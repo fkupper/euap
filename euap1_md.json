@@ -2,5 +2,6 @@
     "name": "European ADA Pool",
     "description": "Growing the Global Cardano Community, enthusiastic about supporting DeFi, dApps and Cardano awareness in Europe.",
     "ticker": "EUAP1",
-    "homepage": "https://euadapool.com"
+    "homepage": "https://euadapool.com",
+    "extended": "https://raw.githubusercontent.com/fkupper/euap/main/euap1_emd.json"
 }
