@@ -28,5 +28,14 @@
     },  
     "telegram-admin-handle": {
         "0": "auadapool"
+    },
+    "adapools_ext": {
+        "prometheus": {
+            "0": {
+                "name": "Relay 1",
+                "type": "relay",
+                "key": "ffd59c084867b9c077c2fff9a6b601b9"
+	    }
+	}
     }
 }
