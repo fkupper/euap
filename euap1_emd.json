@@ -7,7 +7,7 @@
             "twitter_handle": "EuropeanADApool",
             "telegram_handle": "euadapool",
             "github_handle": "fkupper",
-			"linkedin_handle": "european-ada-pool"
+            "linkedin_handle": "european-ada-pool"
         },
         "company": {
             "name": "European ADA Pool",
@@ -35,7 +35,12 @@
                 "name": "Relay 1",
                 "type": "relay",
                 "key": "ffd59c084867b9c077c2fff9a6b601b9"
+	        },
+            "1": {
+                "name": "Core",
+                "type": "bp",
+                "key": "983a057bc266dfa9d3e166f91c5c8990"
+            }
 	    }
-	}
     }
 }
