@@ -40,7 +40,12 @@
                 "name": "Core",
                 "type": "bp",
                 "key": "983a057bc266dfa9d3e166f91c5c8990"
+            },
+	    "2": {
+                "name": "Relay 2",
+                "type": "relay",
+                "key": "a50fd4acc2022d9c213b1428354fb7bb"
             }
-	    }
+	}
     }
 }
